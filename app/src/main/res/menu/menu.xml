@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"></item>
+
+    <item
+        android:id="@+id/item2"
+        android:title="Calorie"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        ></item>
+
+    <item
+        android:id="@+id/item3"
+        android:title="History"
+        android:icon="@drawable/ic_baseline_history_24"
+        ></item>
+
+    <item
+        android:id="@+id/item4"
+        android:title="OCI"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        ></item>
+</menu>

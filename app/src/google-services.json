@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428171040524",
+    "firebase_url": "https://fitbro-4fe4a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fitbro-4fe4a",
+    "storage_bucket": "fitbro-4fe4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428171040524:android:a389e2790014088a851b29",
+        "android_client_info": {
+          "package_name": "com.example.fitbrov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428171040524-o8fqfi1ltkfkbpae9kn2v1gg6t98aco8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbxSAvOE7vuV_ly449IqFPG1j6UgH7GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428171040524-o8fqfi1ltkfkbpae9kn2v1gg6t98aco8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
