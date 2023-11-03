@@ -1,2 +1,2 @@
 "# FitBro-V2" 
-My dogshit Final year Project
+Final Year Project - Machine Learning (Image-Recognition) Diet Consultant System
